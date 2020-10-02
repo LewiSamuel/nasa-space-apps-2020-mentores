@@ -294,6 +294,9 @@
       <!-- <h1>Real</h1> -->
       <div class="logos">
         <img
+          src="http://www.df.gov.br/wp-conteudo/themes/templategdf/img/logogdf_1.svg"
+        />
+        <img
           src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/nasa-300x246.png"
         />
         <img
