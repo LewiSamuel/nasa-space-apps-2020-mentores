@@ -58,7 +58,7 @@ var data = [
       "Nome": "Thiago Miotelo",
       "Empresa": "Empreendedor",
       "EXPERTISE": "Negócios e Empreendedorismo",
-      "Picture": "https://i.stack.imgur.com/l60Hf.png",
+      "Picture": "thiago_m.png",
       "mini_curriculo": "Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
       "BackGround": "Empreendedor desde sempre. Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
       "": "",
