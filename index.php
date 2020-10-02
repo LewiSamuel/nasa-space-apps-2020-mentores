@@ -289,45 +289,9 @@
     </main>
 
     <footer>
-      <h1>Realização</h1>
-      <div class="logos">
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2019/08/logoF2alta-300x109.png"
-        />
-      </div>
+      
 
-      <h1>Master</h1>
-      <div class="logos">
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/colorido-768x248.png"
-        />
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/cobrefacil-300x158.png"
-        />
-      </div>
-
-      <h1>Parceiros</h1>
-      <div class="logos">
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/IAV-New-Logo-300x97.png"
-        />
-      </div>
-
-      <h1>Apoio</h1>
-      <div class="logos">
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/LOGO-ACIRP-100-anos-fundo-transparente-04-300x300.png"
-        />
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/usembassy-300x198.jpg"
-        />
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/TV-TEM_vertical-1024x576.png"
-        />
-        <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/marca-vertical-1-1024x600.jpg"
-        />
-      </div>
+      <!-- <h1>Real</h1> -->
       <div class="logos">
         <img
           src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/nasa-300x246.png"
