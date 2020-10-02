@@ -300,7 +300,7 @@
           src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/nasa-300x246.png"
         />
         <img
-          src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/Nasa-Logo-2020-300x300.png"
+          src="logo-brasilia-nasa.png"
         />
         <img
           src="https://spaceappsriopreto.com/wp-content/uploads/2020/08/N.S.A.C.logo_-300x275.png"
