@@ -343,7 +343,6 @@
   </body>
   <script src="data.js"></script>
   <script>
-    console.log(data);
     var mentores;
 
     function sortName(a, b) {
