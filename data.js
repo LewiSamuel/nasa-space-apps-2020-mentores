@@ -44,15 +44,15 @@ var data = [
     "BackGround": "Engenharia Aeroespacial - UnB. Gestor de parcerias do Space Generation Advisory Council América Latina. Formação em inovação e empreendedorismo pela Georgetown University.",
     "link": "https://www.instagram.com/leonardojulio"
   },
-  {
-    "Nome": "Thiago Miotelo",
-    "Empresa": "Empreendedor",
-    "EXPERTISE": "Negócios e Empreendedorismo",
-    "Picture": "thiago_m.png",
-    "mini_curriculo": "Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
-    "BackGround": "Empreendedor desde sempre. Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
-    "link": "https://www.instagram.com/thiagomiotelo"
-  },
+  // {
+  //   "Nome": "Thiago Miotelo",
+  //   "Empresa": "Empreendedor",
+  //   "EXPERTISE": "Negócios e Empreendedorismo",
+  //   "Picture": "thiago_m.png",
+  //   "mini_curriculo": "Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
+  //   "BackGround": "Empreendedor desde sempre. Especialista em começar do zero sem dinheiro. Ajudo você a tirar sua startup do papel e construir um negócio inovador.",
+  //   "link": "https://www.instagram.com/thiagomiotelo"
+  // },
   {
     "Nome": "Thálisson Lopes",
     "Empresa": "UDF",
